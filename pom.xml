@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+				 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <organization> 
+    <name>ProtegeProject</name> 
+    <url>http://protege.stanford.edu</url>
+  </organization>
+
+  <groupId>org.mm</groupId>
+  <artifactId>mapping-master-project</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0.0</version>
+  <name>Mapping Master Project Builder</name>
+  
+  <modules>
+    <module>../mapping-master</module>
+    <module>../mapping-master-integration-tests</module>
+  </modules>
+
+</project>

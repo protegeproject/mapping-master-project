@@ -1,0 +1,24 @@
+
+# Ignore temporary Emacs files
+*~
+
+#Ignore Eclipse directories
+.settings
+.project
+.classpath
+.pydevproject
+.metadata
+
+.idea
+*.iml
+
+# Exclude build directory
+target/*
+.
+/target
+
+*.pyc
+
+# Protege 3 project and repository files
+*.repository
+*.pprj
