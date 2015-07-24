@@ -1,8 +1,8 @@
 ## Mapping Master Build Project
 
 This project contains a Maven POM that builds Mapping Master-related components.
-Currently it builds the [core Mapping Master project](https://github.com/protegeproject/mapping-master.git), 
-and the [Mapping Master Itegration Tests Project](https://github.com/protegeproject/mapping-master-integration-tests.git).
+Currently it builds the [core Mapping Master](https://github.com/protegeproject/mapping-master.git) project 
+and the [Mapping Master Itegration Tests](https://github.com/protegeproject/mapping-master-integration-tests.gita project).
 
 #### Prerequisites
 
