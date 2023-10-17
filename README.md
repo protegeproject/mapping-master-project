@@ -9,7 +9,7 @@ and the [Cellfie Plugin](https://github.com/protegeproject/cellfie-plugin.git) p
 
 To run the build process in this project, you must have the following items installed:
 
-+ [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
++ [Java 11](https://www.oracle.com/java/technologies/downloads/archive/)
 + A tool for checking out a [Git](http://git-scm.com/) repository
 + Apache's [Maven](http://maven.apache.org/index.html)
 
