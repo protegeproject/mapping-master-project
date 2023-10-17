@@ -15,7 +15,7 @@
    <groupId>org.mm</groupId>
    <artifactId>mapping-master-project</artifactId>
    <packaging>pom</packaging>
-   <version>2.1.1</version>
+   <version>2.2.2</version>
    <name>Mapping Master Project Builder</name>
 
    <modules>
